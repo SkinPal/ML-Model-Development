@@ -3,7 +3,7 @@ Our team has created two machine learning models, which are:
 1. Face classification based on face type
 2. Face classification based on face condition
 
-## Team Member
+## Team Member - ML
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
